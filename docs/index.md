@@ -13,3 +13,7 @@ That experience led me to pursue an Associate of Applied Science (AAS) in Cybers
 Competing in CTFs was one of the most rewarding parts of my training. The scenarios put classroom concepts into real-world practice, which made them stick in a way lectures alone can't. Hands-on challenges brought the theory to life and gave me a taste of what real security work feels like.
 
 CTFs also showed me exactly where I need to grow. Identifying the areas I struggled with gave me a clear focus for further study. Most importantly, I learned there's rarely one "right" way to solve a problem. Every challenge can be approached creatively, and each new approach teaches me something new.
+
+## Highlight: AI-Assisted Security Automation
+
+One of my favorite projects has been integrating an AI agent with a custom MCP (Model Context Protocol) server written in Python. The server lets the agent parse and analyze logs, so I can automate repetitive security tasks and focus on the investigation itself. It's been a fun way to combine scripting, AI, and security, and the possibilities are as wide as my creativity.
