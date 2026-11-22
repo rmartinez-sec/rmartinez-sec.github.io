@@ -1,3 +1,9 @@
 site_name: Richard Martinez | Cybersecurity Portfolio
 theme:
   name: material
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/richard-martinez-3a846630b
+    - icon: fontawesome/brands/github
+      link: https://github.com/rmartinez-sec
