@@ -14,6 +14,16 @@ Competing in CTFs was one of the most rewarding parts of my training. The scenar
 
 CTFs also showed me exactly where I need to grow. Identifying the areas I struggled with gave me a clear focus for further study. Most importantly, I learned there's rarely one "right" way to solve a problem. Every challenge can be approached creatively, and each new approach teaches me something new.
 
+## NCL Performance (Fall 2026)
+
+- **Individual Game:** 698th of 5,961 (89th percentile), 92.1% accuracy. Top categories: Network Traffic Analysis and Forensics (98th percentile), OSINT (94th percentile). [View report](https://cyberskyline.com/report/XQDPFP6F3CQT)
+- **Team Game** (SANS.edu Phantom Packets): 205th of 3,034 (94th percentile), 2,530 of 3,000 points. Top categories: Forensics (99th percentile), Network Traffic Analysis and Scanning & Reconnaissance (96th percentile). [View report](https://cyberskyline.com/report/DFVPJ3430R47)
+
 ## Highlight: AI-Assisted Security Automation
 
 One of my favorite projects has been integrating an AI agent with a custom MCP (Model Context Protocol) server written in Python. The server lets the agent parse and analyze logs, so I can automate repetitive security tasks and focus on the investigation itself. It's been a fun way to combine scripting, AI, and security, and the possibilities are as wide as my creativity.
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/richard-martinez-3a846630b)
+- [GitHub](https://github.com/rmartinez-sec)
